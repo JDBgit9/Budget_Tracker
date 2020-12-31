@@ -1,5 +1,8 @@
 body {
-  font-size: 120%;
+  background-color: green;
+}
+tbody {
+  font-size: 100%;
   font-family: Arial;
 }
 
@@ -9,7 +12,7 @@ button, input {
 }
 
 table {
-  width: 100%;
+  width: 50%;
 }
 
 td, th {
